@@ -12,6 +12,8 @@
 
 * Always keep logo proportional as in the original file provided below.
 
+**ASSETS:** All logos are in assets/logo folder
+
 ---
 
 **SVG logo on the white background**
@@ -42,7 +44,7 @@
 
 ---
 
-##Typography
+## Typography
 
 Adventure Canada's web fonts are served via Adobe Fonts. To use fonts on a web page, copy this code into the `<head>` tag of your HTML. 
 
@@ -52,14 +54,14 @@ Adventure Canada is using two type foundries:
 * Museo Slab for headlines
 * Open Sans for body text
 
-##Headlines (h1, h2, h3, h4, h5, h6)
+## Headlines (h1, h2, h3, h4, h5, h6)
 
 	font-family: museo,Georgia,Cambria,serif;
 	font-weight: 500;
 	font-style: normal;
 	color: #000;
 	
-###Headline Size
+### Headline Size
 
 **Default (small screen)**
 
@@ -93,7 +95,7 @@ Adventure Canada is using two type foundries:
 
 	font-family: 'open-sans',Gill Sans,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
 	
-###Font Size
+### Font Size
 **Note:** Base font size is 16px or 100%
 
 **Default (small screen)**
@@ -108,7 +110,7 @@ Adventure Canada is using two type foundries:
 
 	font-size: 125%; /* or 20px */
 	
-###Style and Weight	
+### Style and Weight	
 
 **Regular**
 
@@ -132,9 +134,9 @@ Adventure Canada is using two type foundries:
 
 * Never use all capital letters, except for abbreviations or legal language 
 	
-##Links and Navigation
+## Links and Navigation
 
-###Primary Navigation
+### Primary Navigation
 
 ![Alt Image Text](assets/links-and-navigation/primary-nav.png "Primary Navigation") 
 
@@ -162,7 +164,7 @@ Adventure Canada is using two type foundries:
 
 		
 
-###Secondary  Navigation 
+### Secondary  Navigation 
 
 ![Alt Image Text](assets/links-and-navigation/secondary-nav.png "Secondary Navigation") 
 
@@ -187,7 +189,7 @@ Adventure Canada is using two type foundries:
 		opacity: .8;
 	}
 
-###Links in text 
+### Links in text 
 
 ![Alt Image Text](assets/links-and-navigation/links-in-text.png "Links in text ") 
 
@@ -206,7 +208,7 @@ Adventure Canada is using two type foundries:
 	}
 
 
-##Buttons
+## Buttons
 
 **IMPORTANT NOTES**
 Never use more than one primary button in the single component.
@@ -334,9 +336,9 @@ In addition to the styles below this button uses standard `<a>` anchor styles. P
     	letter-spacing: 1px;
 	}
 	
-##General Form Style Guidelines
+## General Form Style Guidelines
 
-###Fields###
+### Fields
 
 **Note** All fields must have `<label>` element. "Placeholder" attribute can be used only to support the filed's label but cannot replace `<label>` element. 
 
@@ -377,7 +379,7 @@ In addition to the styles below this button uses standard `<a>` anchor styles. P
 	-webkit-transition: box-shadow .5s,border-color .25s ease-in-out;
 	transition: box-shadow .5s,border-color .25s ease-in-out;
 	
-###Alert or Error State
+### Alert or Error State
 
 Adventure Canada's forms do not have Alert of Error states. A browser default styles handle those.
 
@@ -399,7 +401,7 @@ To highlight a filed with missing or incorrect information:
     // alert message (missing/incorrect data) color
     color: #d0021b; 
 
-###Notifications
+### Notifications
 
 **Primary Notifications**
 
