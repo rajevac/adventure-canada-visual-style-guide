@@ -1,1 +1,1 @@
-# adventure-canada-visual-style-guide
+# Adventure Canada Visual Style Guide
