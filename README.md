@@ -1,7 +1,7 @@
 
-#Adventure Canada: <br> Visual Style Guide
+# Adventure Canada: <br> Visual Style Guide
 
-##Logotype
+## Logotype
 
 **IMPORTANT NOTES**
 * Always use SVG logo file format. If that is not possible use PNG version.
